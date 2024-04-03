@@ -18,3 +18,9 @@ Victoria Torres Burgos
 7. sino, aumenta el divisor en 1
 
 8. si no comprueba esa condicion, devuelve verdadero, es decir, es un numero primo
+
+
+Para correrlo:
+
+1. Clone
+2. run python3 is_prime.py
