@@ -22,5 +22,5 @@ Victoria Torres Burgos
 
 Para correrlo:
 
-1. Clone
-2. run python3 is_prime.py
+1. clonar
+2. correr python3 is_prime.py
